@@ -10,7 +10,7 @@ setup(
     packages=['youtubesampler'],
     install_requires=[
         "auditok @ git+https://github.com/amsehili/auditok@271fd15dfb7a1e9da9eade6517cb4345eb56f096",
-        "certifi==2020.6.20",
+        "certifi==2022.12.7",
         "chardet==3.0.4",
         "idna==2.10",
         "pydub==0.24.1",
